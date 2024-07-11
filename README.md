@@ -25,6 +25,8 @@ You can click the Preview link to take a look at your changes.
 ![Static Badge](https://img.shields.io/badge/UiPath-orange?style=for-the-badge&logo=uipath&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Discord-%237299ee?style=for-the-badge&logo=discord&logoColor=white&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Jupyter-turquoise?style=for-the-badge&logo=Jupyter&logoColor=white&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/ChatGpt-black?style=for-the-badge&logo=OpenAi&logoColor=white&logoSize=auto)
+
 
 
 
