@@ -1,7 +1,18 @@
-- 👋 Hi, I’m @SeanRVACode
-- 👀 I’m interested in automating task.
-- 🌱 I’m currently learning python and data science.
-- 📫 You can reach me through my website!
+<!-- Banner/quick intro -->
+```python
+from typing import List
+
+class Sean:
+  name: str = "Sean"
+  role: str = "Python Automation Developer @ WellsColeman"
+  # Core
+  code: List[str] = ["Python","HTML","CSS"]
+
+  tool_box: List[str] = ["pandas","openpyxl","xlwings","requests","httpx","PySide6"]
+
+  # Things I automate
+  work: List[str] = ["Excel Cleanup & Reporting", "APIs & Auth flows","Internal Utilites","Small GUI Tools"]
+```
 
 <!---
 SeanRVACode/SeanRVACode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
