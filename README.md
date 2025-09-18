@@ -1,17 +1,18 @@
 <!-- Banner/quick intro -->
 ```python
 from typing import List
+from dataclasses import dataclass
 
+@dataclass
 class Sean:
   name: str = "Sean"
   role: str = "Python Automation Developer @ WellsColeman"
-  # Core
-  code: List[str] = ["Python","HTML","CSS"]
+  langs: List[str] = ["Python","HTML","CSS"]
 
   tool_box: List[str] = ["pandas","openpyxl","xlwings","requests","httpx","PySide6"]
 
   # Things I automate
-  work: List[str] = ["Excel Cleanup & Reporting", "APIs & Auth flows","Internal Utilites","Small GUI Tools"]
+  work: List[str] = ["Excel Cleanup & Reporting", "APIs","Internal Utilites","Small GUI Tools"]
 ```
 
 <!---
